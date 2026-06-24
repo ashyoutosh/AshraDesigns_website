@@ -3498,6 +3498,7 @@ dd {
   width: 100%;
   height: auto;
   filter: drop-shadow(0 20px 40px rgba(17, 34, 68, 0.15));
+  mix-blend-mode: multiply;
 }
 @keyframes premium-float {
   0% { transform: translateY(0); }
