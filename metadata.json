@@ -1,0 +1,8 @@
+{
+  "name": "Images addo",
+  "description": "COPY EXACTLY THE SAME WEBSITE HERE. NO CHANGES AT ALL\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
