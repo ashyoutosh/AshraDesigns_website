@@ -1,20 +1,94 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Ashra Designs
 
-# Run and deploy your AI Studio app
+### High-Converting Websites, Funnels & Growth Systems for Modern Businesses
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/f2847c69-837d-422b-9e12-671566bb5bd2
+## Overview
 
-## Run Locally
+Ashra Designs helps businesses turn traffic into qualified leads through conversion-focused websites, landing pages, lead generation systems, and marketing automation.
 
-**Prerequisites:**  Node.js
+Rather than building standalone websites, we design complete customer acquisition systems that help businesses attract, convert, and nurture potential customers.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Features
+
+- Modern responsive website
+- Conversion-focused UI/UX
+- High-converting landing pages
+- Lead generation systems
+- Marketing automation
+- WhatsApp automation
+- Email automation
+- Social media campaign integration
+- Mobile-first responsive design
+- Fast loading and optimized performance
+- SEO-friendly structure
+
+---
+
+## Services
+
+- Website Design & Development
+- Landing Pages
+- Lead Generation Systems
+- Sales Funnels
+- Marketing Automation
+- WhatsApp Automation
+- Email Automation
+- Conversion Rate Optimization
+- Social Media Campaigns
+
+---
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Google AI Studio
+
+---
+
+## Project Structure
+
+- `index.html`: Main entry point and homepage containing the primary structure of the application.
+- `styles.css`: Core stylesheet containing all design rules, animations, and responsive utilities.
+- `public/`: Directory containing static assets like images, icons, and fonts.
+- `cookie-policy.html`, `privacy-policy.html`, `terms-and-conditions.html`: Standard legal pages.
+
+---
+
+## Performance Goals
+
+- Fast loading
+- Mobile optimized
+- Responsive across all devices
+- Accessibility best practices
+- SEO-ready
+
+---
+
+## Deployment
+
+This project can be deployed on:
+
+- Vercel
+- Netlify
+- GitHub Pages
+- Hostinger
+
+---
+
+## Author
+
+Ashutosh Panda
+
+LinkedIn:
+https://www.linkedin.com/in/ashyoutosh/
+
+---
+
+© 2026 Ashra Designs. All Rights Reserved.
