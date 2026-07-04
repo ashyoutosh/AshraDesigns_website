@@ -3399,7 +3399,7 @@ dd {
 /* --- Premium Hero Section --- */
 .hero-premium {
   display: grid;
-  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+  grid-template-columns: minmax(0, 0.48fr) minmax(0, 0.52fr);
   gap: 48px;
   align-items: center;
   max-width: 1080px;
@@ -3536,18 +3536,18 @@ dd {
 .hero-premium-right {
   position: relative;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
 }
 .hero-illustration-wrapper {
   position: relative;
   width: 100%;
-  max-width: 500px;
+  max-width: none;
   margin-top: 0;
   animation: premium-float 6s ease-in-out infinite;
 }
 .illustration-large {
-  transform: scale(1.05);
+  transform: scale(1.25);
   transform-origin: center;
 }
 .radial-glow {
@@ -3568,12 +3568,8 @@ dd {
 .floating-illustration {
   width: 100%;
   height: auto;
-  mask-image: radial-gradient(circle at center, black 60%, transparent 100%);
-  -webkit-mask-image: radial-gradient(
-    circle at center,
-    black 60%,
-    transparent 100%
-  );
+  mask-image: radial-gradient(circle at center, black 75%, transparent 100%);
+  -webkit-mask-image: radial-gradient(circle at center, black 75%, transparent 100%);
 }
 @keyframes premium-float {
   0% {
